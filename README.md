@@ -52,7 +52,7 @@ Aguarde o compilador carregador os nodes utilizados das bibliotecas para um úni
 ![image](https://user-images.githubusercontent.com/21156270/229330872-3727d9c3-e4c3-43e4-806b-ae5992b8d9d2.png)<br />
 Codigo fonte compilado, agora temos o executável. Você ira encontrar o executável dentro da pasta “dist” <br />
 ![image](https://user-images.githubusercontent.com/21156270/229330881-d61bb19e-1508-4415-9854-614a14b2bc1b.png)<br />
-![image](https://user-images.githubusercontent.com/21156270/229330882-ffb76db6-569e-463e-b0c6-210d69e51873.png)<br />
+![image](https://user-images.githubusercontent.com/21156270/229330997-5f8a4336-1b45-4b37-9fce-7d4f121afb15.png)<br />
 Com software pronto. Voltamos ao ambiente cryptolens, e acessamos o painel de clientes,<br />
 Quando geramos a licença, dentro do cadastro do produto, informamos um cliente, que ira utilizar a licença.<br />
 Esse cliente, fica cadastrado no portal “Customers”<br />
