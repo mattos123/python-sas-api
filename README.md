@@ -1,7 +1,7 @@
-# Python SaS API Example - CryptoLens<br />
+# Python SaS API Example - CryptoLens 🔒<br />
 Exemplo de validação de licenciamento via api cryptolens em python, com interface grafica em pyqt5<br />
 <br />
-Dependências<br />
+Dependências 📃<br />
 licensing<br />
 pyinstaller<br />
 pyqt5<br />
