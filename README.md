@@ -7,7 +7,7 @@ pyinstaller<br />
 pyqt5<br />
 base64<br />
 <br />
-O código que compartilho, funciona da seguinte forma, tentamos obtemos retorno da auteticação (rsa x auth x numero de licença), a licença sendo validada, atraves do retorno, permitimos acesso a proxima tela do software (MainWindow), salvamos o texto contido no campo referente a "licença" na interface interativa, e carregamos o valor salvo, toda vez que o programa é aberto. Evitando retrabalho para o usuario. Aprofundando-se na documentacao da cryptolens, você encontrara exemplos de como armazenar licenças para que não seja necessário consumir a api frequentemente, voce pode armazenar informações sobre o licenciamento e reconsultar a api dentro de um intervalo de tempo.
+O código que compartilho, funciona da seguinte forma, tentamos obtemos retorno da auteticação (rsa x auth x numero de licença), a licença sendo validada, atraves do retorno, permitimos acesso a proxima tela do software (MainWindow), salvamos o texto contido no campo referente a "licença" na interface interativa, e carregamos o valor salvo, toda vez que o programa é aberto. Evitando retrabalho para o usuario. Aprofundando-se na documentacao da cryptolens, você encontrara exemplos de como armazenar licenças para que não seja necessário consumir a api frequentemente, voce pode armazenar informações sobre o licenciamento e reconsultar a api dentro de um intervalo de tempo, aqui trago um breve exemplo de como implantar o basico para obter um SaS, aprofunde-se e adapte a sua necessidade.
 <br />
 
 Crie sua conta no ambiente gestor de licenciamentos, cryptolens. <br />
